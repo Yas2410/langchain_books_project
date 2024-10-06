@@ -1,3 +1,9 @@
 # Environnements virtuels
 venv/
 .venv/
+
+#Variables d'environnement
+.env
+
+#Docs FAISS
+book_index/index.faiss
