@@ -6,4 +6,4 @@ venv/
 .env
 
 #Docs FAISS
-book_index/index.faiss
+#book_index/index.faiss
